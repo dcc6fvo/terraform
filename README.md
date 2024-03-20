@@ -9,7 +9,7 @@ In this terraform/aws script we build a setup with an application load balancer.
 *NAT Gateways, Routers, Databases were abstract from the design but are necessary
 
 <p align="center">
-  <img src="img/terraform-app-load-balance.drawio.png" alt="Advanced real world example of vagrant and virtualbox configuration">
+  <img src="terraform-app-load-balance-main/img/terraform-app-load-balance.drawio.png" alt="Advanced real world example of vagrant and virtualbox configuration">
 </p>
 
 Prerequisites
