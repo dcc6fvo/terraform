@@ -1,0 +1,14 @@
+# ignore credentials
+*.csv
+
+# ignore keys
+terraform-aws
+terraform-aws.pub
+
+#ignore tfstate
+*.tfstate*
+
+# ignore ALL files in ANY directory named temp
+.terraform/
+.terraform.lock.hcl
+
